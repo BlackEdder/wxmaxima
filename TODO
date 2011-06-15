@@ -1,0 +1,7 @@
+- Add error output pane (similar to the hist plane, but uneditable)
+-	Redirect errors to here if it is present (make sure not to redirect "is a positive?")
+- Add message that says warns if one or more errors are found in the main window
+
+Non error handling related:
+- Make the output more keyboard friendly (i.e. select with keyboard, home on a long line
+	etc)
